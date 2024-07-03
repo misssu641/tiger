@@ -1,0 +1,83 @@
+header{
+    color: rgb(119, 14, 0);
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+    background-image:url(https://inbusiness.kz/uploads/37/images/evhFLmtK.jpg) ;
+    background-size:cover ;
+    height: 600px;
+}
+main{
+    height: 1000px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    
+}
+
+.container{
+height: 1000px;
+width: 1920px;
+max-width: 100%;
+margin: auto;
+background-color: aliceblue;
+}
+.g-block-1{
+    width: 50%;
+    float: left;
+}
+.g-block-2{
+    width: 50%;
+    float: right;
+}
+.block1{
+    width: 100%;
+    height: 500px;
+    border-color: rgb(189, 53, 0);
+}
+.block2{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://shel-vestnik.ru/wp-content/uploads/2021/12/1-14-e1640845888426.jpg);
+    background-color: cornsilk;
+}
+.block3{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(102, 17, 21);
+}
+.block4{
+    width: 100%;
+    height: 400px;
+    background-image: url(https://cdnn1.img.crimea.ria.ru/img/07e5/0c/1d/1121903580_0:288:3128:2048_1920x0_80_0_0_48a4427b146a00d322c4b5fccf261c55.jpg);
+    background-size: cover;
+    background-color:rgb(156, 68, 68);
+}
+.block5{
+    width: 100%;
+    height: 300px;
+    background-color: brown;
+}
+
+
+footer{
+    height: 200px;
+    background-color: rgb(243, 167, 167);
+}
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.nnn{
+    text-align: center;
+}
